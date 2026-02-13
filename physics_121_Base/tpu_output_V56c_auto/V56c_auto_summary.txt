@@ -1,0 +1,21 @@
+TPU Simulation Summary - V56c_auto
+==================================================
+
+Grid size: 121x121x121
+Domain: [-30.0, 30.0]^3
+Total simulation time: 28.00
+Total steps: 5873
+Final mean σ: 0.593
+Final mass: 131239.182
+Final radius: 37.059
+Final temperature: 0.295
+Number of snapshots: 6
+Number of animation frames: 196
+Number of particle trajectories: 588
+
+Files generated:
+- Final σ field: V56c_auto_final_sigma.npy
+- Thermodynamic data: times, masses, hilberts, radii, temps, evap_rates
+- Power spectrum: k, Pk
+- Plots: thermodynamics, power spectrum, Carew W-geometry, field slices
+- Checkpoints: 1 files
